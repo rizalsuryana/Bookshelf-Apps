@@ -1,0 +1,11 @@
+Nama aplikasi "Bookshelf Apps"
+Dimana aplikasi ini memiliki beberapa fitur seperti :
+1. Menambahkan buku'
+2. Menambahkan buku dan menandai selsai di baca
+3. Memindahkan buku dari selsai dibaca ke belum di baca , begitupun sebalinya.
+4. Terdapat popu notifikasi ketika kita melakukan suatu tindakan
+5. Untuk fitur pencarian will be update ASAP!
+
+
+
+jS yang saya gunakan mengacu pada referensi dari aplikasi todo dan web storage yang sudah di pelajari pada modul ini.
